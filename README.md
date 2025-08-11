@@ -29,5 +29,4 @@ Features real-time search, filtering by year and type, movie details view, and s
 
 ---
 
-## 📂 Project Structure
--build-fails-to-minify)
+
