@@ -44,4 +44,30 @@ moviesearch-app/
 ├── package.json
 └── README.md
 
+## ⚙️ Installation & Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/moviesearch-app.git
+Navigate to the project folder:
+
+cd moviesearch-app
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm start
+
+Build for production:
+npm run build
+
+
+📦 Deployment
+This project uses GitHub Pages for deployment:
+npm run deploy
+
+👩‍💻 About the Author
+Shrutika Patil
+💼 www.linkedin.com/in/shrutikapatil9
+📧 shrutika09.patil@gmail.com
 
