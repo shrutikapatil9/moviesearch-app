@@ -28,5 +28,20 @@ Features real-time search, filtering by year and type, movie details view, and s
 - **GitHub Pages** (Deployment)
 
 ---
+## 📂 Project Structure
+moviesearch-app/
+│
+├── public/ # Static files
+├── src/
+│ ├── components/
+│ │ ├── SearchBar.js
+│ │ ├── MovieList.js
+│ │ ├── MovieDetails.js
+│ ├── App.js
+│ ├── App.css
+│ └── index.js
+│
+├── package.json
+└── README.md
 
 
